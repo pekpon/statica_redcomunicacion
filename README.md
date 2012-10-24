@@ -1,4 +1,4 @@
-statica_dislook
+statica_redcomunicacion
 ===============
 
-Dislook website using statica
+RedComunicacion website using statica
