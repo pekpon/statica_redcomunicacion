@@ -1,0 +1,27 @@
+body{
+	margin-top:30px;
+}
+.disp-table{
+	display:table;
+}
+.navbar{
+	font-size:11px !important;
+}
+.top10{
+	margin-top:10px;
+}
+.no-margin{
+	margin:0px;
+}
+.headerPhone{
+	line-height:25px;
+}
+.colorRed{
+	color:#b22c25;
+}
+footer{
+	background-color:black;
+}
+footer h5{
+	color:#555;
+}
