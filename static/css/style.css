@@ -19,3 +19,9 @@ body{
 .colorRed{
 	color:#b22c25;
 }
+footer{
+	background-color:black;
+}
+footer h5{
+	color:#555;
+}
